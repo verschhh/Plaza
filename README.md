@@ -6,6 +6,7 @@ C++ is a high-level, general-purpose programming language
 
 
 A C++ project running using thread, mutex, semaphore and introducing the IPC
+Project made By [Kentin Paille](https://github.com/KentinPaille), [Maxime Lambert](https://github.com/Dimerci) and [Léonard Verschuere](https://github.com/verschhh).
 
 # Summary
 
